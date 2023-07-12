@@ -1,0 +1,57 @@
+---
+sidebar_position: 10
+sidebar_label: 'Example Component'
+---
+
+# ComponentName
+
+## Description
+
+Here you write a brief description about the component, its purpose, where it's used, and any other important details.
+
+## Props
+
+| Prop Name | Type | Default | Description |
+|---|---|---|---|
+| prop1  | type  | default value | description |
+| prop2  | type  | default value | description |
+
+## Detailed Props Explanation
+
+For complex props, write a more detailed explanation here.
+
+### prop1
+
+Here, explain in detail about prop1.
+
+### prop2
+
+Here, explain in detail about prop2.
+
+## Code Examples
+
+Provide examples of how to use the component.
+
+```jsx
+<ComponentName prop1={value1} prop2={value2} />
+
+```
+
+## Interactive Playground
+
+Provide a link to the interactive playground if it exists, or embed a live demo if possible.
+
+## Visuals
+
+Embed screenshots or animations showing the component in action. Here is an example of how to include an image:
+
+`![ComponentName Screenshot](url_to_screenshot)`
+
+## Best Practices
+
+Here, write about any best practices or recommendations for using your component.
+
+## Technical Details
+
+Discuss any technical details that are relevant to the component. This could include how the component manages its state, performance considerations, or any third-party libraries it relies on.
+
